@@ -1,5 +1,5 @@
 {
-  "name": "api",
+  "name": "vamos-api",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -7,7 +7,7 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
-  "author": "",
+  "author": "Adam Konopka (kanapka94)",
   "license": "ISC",
   "dependencies": {
     "directus": "^9.19.2",
