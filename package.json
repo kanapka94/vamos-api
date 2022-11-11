@@ -11,7 +11,7 @@
   "author": "Adam Konopka (kanapka94)",
   "license": "ISC",
   "dependencies": {
-    "directus": "^9.19.2",
+    "directus": "^9.20.4",
     "directus-extension-editorjs": "^1.5.0",
     "pg": "^8.8.0"
   }
